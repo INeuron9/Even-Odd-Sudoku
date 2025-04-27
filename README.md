@@ -44,3 +44,21 @@ Each number appears exactly once in each 3x3 subgrid.
 Even-Odd Constraint: No two consecutive numbers in any row, column, or 3x3 subgrid can have the same parity (i.e., one must be odd and the other even).
 
 Objective: Solve the puzzle while respecting both the Sudoku and the even-odd constraints.
+
+
+**Technologies Used**
+
+Python 3.x: The primary programming language used.
+
+Pygame: For creating the graphical user interface (GUI) and handling user interactions.
+
+Random: For generating random puzzles and placing numbers.
+
+
+**Future Improvements**
+
+Difficulty Levels: Add different levels of difficulty by controlling the number of pre-filled cells.
+
+Hint System: Implement a hint system that suggests numbers that can fit without violating the even-odd constraint.
+
+AI Enhancement: Use advanced algorithms like constraint propagation or simulated annealing for puzzle generation and solving.
