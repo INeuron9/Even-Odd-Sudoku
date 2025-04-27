@@ -29,3 +29,18 @@ git clone https://github.com/INeuron9/even-odd-sudoku.git
 run the following command in cmd
 
 py -m pip install -r requirements.txt
+
+
+**Game Rules**
+
+Standard Sudoku Rules: Fill a 9x9 grid with numbers from 1 to 9 such that:
+
+Each number appears exactly once in each row.
+
+Each number appears exactly once in each column.
+
+Each number appears exactly once in each 3x3 subgrid.
+
+Even-Odd Constraint: No two consecutive numbers in any row, column, or 3x3 subgrid can have the same parity (i.e., one must be odd and the other even).
+
+Objective: Solve the puzzle while respecting both the Sudoku and the even-odd constraints.
