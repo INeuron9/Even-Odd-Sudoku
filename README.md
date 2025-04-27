@@ -15,3 +15,11 @@ Interactive Interface: Built using Pygame, the game allows users to manually fil
 
 Random Puzzle Generation: The game can generate puzzles with varying difficulty levels based on the random placement of numbers while respecting the even-odd constraint.
 
+**Installation**
+
+To run this project locally, ensure you have Python 3.x installed along with the required libraries. Follow the steps below to set up the project.
+
+
+**Clone the repository:**
+
+git clone https://github.com/INeuron9/even-odd-sudoku.git
