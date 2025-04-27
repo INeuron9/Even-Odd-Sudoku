@@ -23,3 +23,9 @@ To run this project locally, ensure you have Python 3.x installed along with the
 **Clone the repository:**
 
 git clone https://github.com/INeuron9/even-odd-sudoku.git
+
+**Install dependencies**
+
+run the following command in cmd
+
+py -m pip install -r requirements.txt
